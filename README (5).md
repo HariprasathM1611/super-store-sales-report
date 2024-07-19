@@ -23,5 +23,5 @@ The Super Store’s Q1 2019 performance reveals several key results:
 7. Peak Sales Timing: The peak sales period around 4:00 PM highlights an optimal time for maximizing store operations and targeted promotions.
 8. Customer Demographics: The distribution of customer types and genders across branches provides a clearer understanding of the customer base, enabling more tailored marketing and service approaches.
 
-# dashboard
+# Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiODk1NjFkMTQtNTZiZS00MTMyLWIxYWItZTI1MDU5MDQ4NjE0IiwidCI6ImIzODE4MTViLWY3NzMtNGIxOC05ZDFjLWYxZGJiMjA0MjYzMSJ9
